@@ -132,6 +132,8 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
   }
 
   .card-1 img {
